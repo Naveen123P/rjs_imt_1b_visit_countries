@@ -1,0 +1,28 @@
+.visited-country-list {
+  height: 13rem;
+  width: 30%;
+  margin: 5px 10px 5px 0px;
+  padding: 0px;
+  background-color: #1f1f2f;
+}
+.thumbnail-img {
+  height: 10rem;
+  width: 100%;
+}
+.name-button-div {
+  height: 3rem;
+  width: 100%;
+  padding: 0px 1rem 0px 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.remove-button {
+  padding: 0.3rem;
+  border: 2px solid #f1f5f9;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: transparent;
+}
